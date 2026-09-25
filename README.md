@@ -88,7 +88,9 @@ Trabajo con herramientas modernas de testing y desarrollo como:
 ## 📫 Conecta conmigo
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/eduardonavarroecheverria  
-- 💼 Portfolio: https://eduardo-navarro-portfolio.vercel.app  
-- ✉️ Email: eduardonavarro.test@gmail.com  
+- 💼 Portfolio: https://poftfolio.edudev.biz  
+- 🤖 Clon digital (CV interactivo): https://cv.edudev.biz  
+- ✉️ Email: edudevcol@gmail.com  
 - 🌍 Disponible para oportunidades internacionales.  
+  Estoy abierto a gestionar un **visado de trabajo** si la empresa lo permite.
   Estoy abierto a gestionar un **visado de trabajo** si la empresa lo permite.
