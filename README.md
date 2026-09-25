@@ -88,7 +88,7 @@ Trabajo con herramientas modernas de testing y desarrollo como:
 ## 📫 Conecta conmigo
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/eduardonavarroecheverria  
-- 💼 Portfolio: https://poftfolio.edudev.biz  
+- 💼 Portfolio: https://portfolio.edudev.biz  
 - 🤖 Clon digital (CV interactivo): https://cv.edudev.biz  
 - ✉️ Email: edudevcol@gmail.com  
 - 🌍 Disponible para oportunidades internacionales.  
