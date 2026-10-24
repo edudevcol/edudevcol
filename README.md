@@ -85,6 +85,20 @@ Trabajo con herramientas modernas de testing y desarrollo como:
 
 ---
 
+## 🔌 Mi perfil como servidor MCP
+
+Mi perfil profesional (experiencia, habilidades, proyectos, formación y disponibilidad) está publicado como un **servidor MCP de solo lectura**, sin cuenta ni autenticación, para que tu asistente de IA lo consulte directamente:
+
+```
+https://api.edudev.biz/mcp
+```
+
+Para conectarlo, abre los **conectores** de tu agente (por ejemplo, en Claude: *Ajustes › Conectores › Agregar conector personalizado*), pega esa dirección y pregúntale por mí. Herramientas: `get_profile`, `get_experience`, `get_skills`, `list_projects`, `get_education`, `evaluate_job_fit` (pásale una oferta y calcula el encaje), `get_contact` y `ask_the_clone`.
+
+*English:* my profile is available as a read-only MCP server (no authentication) at the address above. Add it as a custom connector in your AI agent and ask about me. More details: https://portfolio.edudev.biz/#mcp
+
+---
+
 ## 📫 Conecta conmigo
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/eduardonavarroecheverria  
@@ -92,5 +106,4 @@ Trabajo con herramientas modernas de testing y desarrollo como:
 - 🤖 Clon digital (CV interactivo): https://cv.edudev.biz  
 - ✉️ Email: edudevcol@gmail.com  
 - 🌍 Disponible para oportunidades internacionales.  
-  Estoy abierto a gestionar un **visado de trabajo** si la empresa lo permite.
   Estoy abierto a gestionar un **visado de trabajo** si la empresa lo permite.
