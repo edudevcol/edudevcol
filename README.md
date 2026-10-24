@@ -1,109 +1,82 @@
-# 👋 ¡Hola! Soy Eduardo Navarro
+# Eduardo Navarro
 
-🎯 **QA Automation Engineer** | 🤖 **Agentic AI for Software Testing** | 💻 **Full Stack Web Developer**  
-🇨🇴 Desde Colombia | 🚀 Apasionado por la tecnología, la calidad del software y los agentes de IA aplicados al testing.
+**Agentic QA Engineer** · Automatización de pruebas · Full Stack Developer — Cartagena, Colombia
 
----
+Construyo agentes de IA que hacen el trabajo de QA: verifican que el código cumpla lo que se pidió, ejecutan las pruebas y reportan los bugs en Jira.
 
-## 👨‍💻 Sobre mí
+*English: QA engineer who builds AI agents that do the QA work: they check that the code meets what was requested, run the tests and file the bugs in Jira.*
 
-Soy profesional en **aseguramiento de calidad** con experiencia en automatización de pruebas y formación como **desarrollador web fullstack**.
-
-Actualmente diseño e implemento **flujos de testing agénticos**: agentes de IA que no solo generan contenido, sino que **planifican, ejecutan, verifican y corrigen pruebas de forma autónoma**, con mínima intervención manual.
-
-Trabajo con herramientas modernas de testing y desarrollo como:
-
-- 🔧 Automatización de pruebas funcionales con **Selenium**, **Playwright** y **TestComplete**
-- 🧪 Pruebas manuales (smoke, regresión, exploratorias)
-- 🌐 Desarrollo con **JavaScript**, **Node.js**, **React**, **Express** y **Java**
-- 🤖 Diseño de **agentes de IA** para testing, incluyendo:
-  - Agentes que **generan y priorizan casos de prueba** a partir de tickets o cambios en el código
-  - Agentes que **ejecutan y auto-corrigen scripts** ante fallos (self-healing tests)
-  - Orquestación **multi-agente** (planner → executor → reporter) para flujos de QA continuo
-  - Generación de **datos TDM** sintéticos como parte del flujo agéntico
-- 📊 SQL para consultas y validación de datos
-- ⚙️ Gestión ágil con **Jira** y metodologías **SCRUM**
+[Portafolio](https://portfolio.edudev.biz) · [Clon digital (conversa con mi avatar)](https://cv.edudev.biz) · [LinkedIn](https://www.linkedin.com/in/eduardonavarroecheverria) · [Correo](mailto:edudevcol@gmail.com)
 
 ---
 
-## 🧠 Agentic AI Stack
+## Qué hago
 
-- **Claude Code / Claude Agent SDK** para construir agentes autónomos de testing
-- **MCP (Model Context Protocol)** para conectar agentes a Jira, GitHub y APIs internas
-- Diseño de agentes con **memoria y uso de herramientas (tool-use)** orientados a QA continuo
-- Orquestación de **múltiples agentes** trabajando en cadena (planificación → ejecución → reporte)
+Desde 2020 estoy en la Sociedad Portuaria Regional de Cartagena automatizando pruebas de aplicaciones web críticas con **Selenium, Playwright y TestComplete**, con pruebas funcionales y de APIs REST en metodología ágil (SCRUM). Hoy me enfoco en el **Agentic QA**: agentes de IA que cubren el ciclo de pruebas. Como también desarrollo (React, Node.js, TypeScript), construyo mis propias herramientas.
 
----
+## Agentes que he construido
 
-## 🚀 Tecnologías y herramientas
+- **Cazador de Bugs**: cruza el código entregado por el desarrollador contra los criterios de aceptación y verifica si lo desarrollado incluye lo que se pidió.
+- **Agente ejecutor**: ejecuta las pruebas de forma autónoma.
+- **Agente reportador**: reporta en Jira, de forma autónoma, los casos de prueba y los bugs con sus correcciones.
+- **Playwright Workflow Builder**: las pruebas se arman arrastrando nodos, al estilo n8n, y se encadenan en un solo flujo.
+- **Plataforma de casos de prueba y criterios de aceptación**: genera los casos y los documenta en Jira y Confluence.
+- **Clon digital**: un avatar 3D conversacional por voz, conectado a servidores MCP y a Google Workspace. Las acciones sensibles piden confirmación hablada. Pruébalo en [cv.edudev.biz](https://cv.edudev.biz).
 
-### Lenguajes y Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+## Cómo trabajan
 
-### Testing y QA
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![TestComplete](https://img.shields.io/badge/-TestComplete-009BDE?style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+- Cada caso de prueba queda enlazado a su criterio de aceptación: criterio, caso y bug quedan trazables.
+- Los agentes cruzan Jira, la documentación funcional y el código, y validan contra la base de datos, no solo contra la pantalla.
+- Un filtro de "abogado del diablo" baja los falsos positivos: solo pasa lo que resiste ser refutado.
+- Cada hallazgo sale con receta y traza reproducibles.
+- Los Jira de corrección se crean enlazados al criterio, con la evidencia adjunta y siempre con visto bueno humano.
 
-### Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IA](https://img.shields.io/badge/-Agentic_AI-6A5ACD?style=flat-square&logo=openai&logoColor=white)
+## Impacto (estimaciones mías, no mediciones)
 
-**Herramientas IA que utilizo:**
-- 🤖 **Claude Code / Claude Agent SDK** para agentes autónomos de testing
-- 🔌 **MCP (Model Context Protocol)** para conectar agentes con Jira, GitHub y APIs internas
-- 🤖 **ChatGPT / GPT-4 / GPT-5** para generación de scripts, refactor y diseño de pruebas
-- 🧠 **Google Gemini** para automatización inteligente y generación de casos de prueba
-- 🔍 **IA para TDM**: generación de datos sintéticos y controlados
-- 🛠️ Integración de agentes de IA en flujos de testing y desarrollo
+Cifras que calculé bajo supuestos que detallo en mi [perfil](https://portfolio.edudev.biz/perfil.json); no son resultados medidos en un ciclo real.
 
----
-
-## 📌 Proyectos destacados
-
-- 🔹 **Agente autónomo de QA**: recibe un ticket de Jira, genera los casos de prueba, escribe y ejecuta el script en Playwright, y reporta el resultado sin intervención manual
-- 🔹 Automatización de pruebas end-to-end con **Selenium** y **Playwright**
-- 🔹 Desarrollo de API REST utilizando **Node.js** y **Express**
-- 🔹 Aplicación CRUD fullstack con **React**, **Node.js** y **MongoDB**
-- 🔹 Integración de **agentes de IA** en procesos de testing:
-  - Generación y priorización automática de **casos de prueba**
-  - Generación de **datos TDM** con IA
-  - Scripts de automatización **auto-generados y auto-corregidos**
-  - Orquestación **multi-agente** para ejecución y reporte de pruebas
-
-*(Repos públicos próximamente)*
-
----
+| Indicador | Estimación |
+|---|---|
+| Tiempo para generar criterios y casos de un documento funcional | −93 % |
+| Tiempo de regresión frente a pruebas manuales | −80 % |
+| Esfuerzo humano de la regresión | −95 % |
+| Tiempo de reporte de un hallazgo con evidencia | −93 % |
+| Bugs detectados por ciclo frente a pruebas manuales | +30-40 % |
 
 ## 🔌 Mi perfil como servidor MCP
 
-Mi perfil profesional (experiencia, habilidades, proyectos, formación y disponibilidad) está publicado como un **servidor MCP de solo lectura**, sin cuenta ni autenticación, para que tu asistente de IA lo consulte directamente:
+Mi perfil profesional está publicado como un **servidor MCP de solo lectura**, sin cuenta ni autenticación, para que tu asistente de IA lo consulte directamente:
 
 ```
 https://api.edudev.biz/mcp
 ```
 
-Para conectarlo, abre los **conectores** de tu agente (por ejemplo, en Claude: *Ajustes › Conectores › Agregar conector personalizado*), pega esa dirección y pregúntale por mí. Herramientas: `get_profile`, `get_experience`, `get_skills`, `list_projects`, `get_education`, `evaluate_job_fit` (pásale una oferta y calcula el encaje), `get_contact` y `ask_the_clone`.
+Abre los **conectores** de tu agente (por ejemplo, en Claude: *Ajustes › Conectores › Agregar conector personalizado*), pega esa dirección y pregúntale por mí. Herramientas: `get_profile`, `get_experience`, `get_skills`, `list_projects`, `get_education`, `evaluate_job_fit` (pásale una oferta y calcula el encaje), `get_contact` y `ask_the_clone`.
 
-*English:* my profile is available as a read-only MCP server (no authentication) at the address above. Add it as a custom connector in your AI agent and ask about me. More details: https://portfolio.edudev.biz/#mcp
+*English: my profile is a read-only MCP server (no authentication) at the address above. Add it as a custom connector in your AI agent and ask about me.*
 
----
+## Stack
 
-## 📫 Conecta conmigo
+**Agentic AI:** agentes de IA autónomos · MCP (Model Context Protocol) · agentes de voz en tiempo real (Gemini Live API, WebSocket) · flujos de pruebas por nodos · LLMs (Claude, Gemini, GPT, OpenAI)
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/eduardonavarroecheverria  
-- 💼 Portfolio: https://portfolio.edudev.biz  
-- 🤖 Clon digital (CV interactivo): https://cv.edudev.biz  
-- ✉️ Email: edudevcol@gmail.com  
-- 🌍 Disponible para oportunidades internacionales.  
-  Estoy abierto a gestionar un **visado de trabajo** si la empresa lo permite.
+**Testing:** Playwright · Cypress · TestComplete · Selenium WebDriver · Postman · pruebas funcionales y de APIs REST
+
+**Desarrollo:** TypeScript / JavaScript · React · Node.js · Express · Java · SQL · MongoDB · Python
+
+**Herramientas:** Jira · Confluence · Git · Docker · SCRUM
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6A5ACD?style=flat-square)
+
+## Proyectos con demo pública
+
+- [AI Test Case Generator](https://ai-test-cases-generator-bay.vercel.app): casos de prueba generados con IA y exportación a Jira · [código](https://github.com/edudevcol/ai-test-cases-generator)
+- [AI Script Generator Playwright](https://playwright-ai-wlz9.vercel.app): scripts de Playwright a partir de lenguaje natural · [código](https://github.com/edudevcol/playwright-ai)
+- [AI Test Data Generator](https://tdm-generator-ai.vercel.app): datos de prueba sintéticos con LLMs · [código](https://github.com/edudevcol/tdm-generator-ai)
+
+Los agentes de la Sociedad Portuaria (Cazador de Bugs, ejecutor, reportador y Workflow Builder) los construí para la empresa y no tienen demo pública.
