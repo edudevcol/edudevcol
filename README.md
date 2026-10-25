@@ -31,17 +31,9 @@ Desde 2020 estoy en la Sociedad Portuaria Regional de Cartagena automatizando pr
 - Cada hallazgo sale con receta y traza reproducibles.
 - Los Jira de corrección se crean enlazados al criterio, con la evidencia adjunta y siempre con visto bueno humano.
 
-## 📊 Impacto (estimaciones mías, no mediciones)
+## 📊 Impacto (estimación mía, no medición)
 
-Cifras que calculé bajo supuestos que detallo en mi [perfil](https://portfolio.edudev.biz/perfil.json); no son resultados medidos en un ciclo real.
-
-| Indicador | Estimación |
-|---|---|
-| Tiempo para generar criterios y casos de un documento funcional | −93 % |
-| Tiempo de regresión frente a pruebas manuales | −80 % |
-| Esfuerzo humano de la regresión | −95 % |
-| Tiempo de reporte de un hallazgo con evidencia | −93 % |
-| Bugs detectados por ciclo frente a pruebas manuales | +30-40 % |
+Generar los criterios de aceptación y los casos de prueba de un documento funcional con 8 criterios y 3 casos por criterio (24 casos) me toma unas 12 h a mano; con la plataforma, estimo unos 50 min, incluida la revisión humana. Los supuestos de ese y otros cálculos están en mi [perfil](https://portfolio.edudev.biz/perfil.json).
 
 ## 🔌 Mi perfil como servidor MCP
 
